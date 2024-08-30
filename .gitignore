@@ -1,0 +1,30 @@
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# npm package lock file (optional, if you use Yarn)
+package-lock.json
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo
