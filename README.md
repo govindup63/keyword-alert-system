@@ -54,7 +54,7 @@ The Keyword Alert System is a Node.js application designed to automate the monit
     ```
 
 This project helps automate job search alerts and can be customized for various use cases beyond job listings.
-```
+
 
 ### Key Points:
 
